@@ -2,7 +2,7 @@
 This is a Grocery Bud App which is used to add, edit and delete the grocery items from the list. It is made using React JS.
 
 #Grocery Bud Interface
-![](./image/grocery-bud.png)
+![](image/grocery-bud.png)
 
 
 
